@@ -3,7 +3,7 @@
 // @include            https://*/*screen=place&village=*
 // @version            1.0 (28/04/2022)
 // @grant              window.close
-// @author             Sashiimi#2197
+// @author             prleo
 /*
 */
 // ==/UserScript==
