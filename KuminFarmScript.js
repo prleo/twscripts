@@ -667,7 +667,7 @@ function _0x5c300e() {
     return new Promise(function (_0x5e9111, _0x5a819d) {
         ;
         $.ajax({
-            url: '',
+            url: 'https://github.com/prleo/twscripts/blob/main/KuminFarmIDs.txt',
             type: 'GET',
             dataType: 'text',
             cache: false,
