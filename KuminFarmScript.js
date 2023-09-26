@@ -1685,22 +1685,22 @@ function _0x4726f5(_0x1d888c) {
         _0x1dc500.axe = 24, _0x1dc500.ram = 8;
         break;
     case 3:
-        0 = 55, 0 = 11;
+        _0x1dc500.axe = 55, _0x1dc500.ram = 11;
         break;
     case 4:
-        _0x1dc500.axe = 80, 0 = 15;
+        _0x1dc500.axe = 80, _0x1dc500.ram = 15;
         break;
     case 5:
         _0x1dc500.axe = 80, _0x1dc500.ram = 19;
         break;
     case 6:
-        0 = 110, _0x1dc500.ram = 21;
+        _0x1dc500.axe = 110, _0x1dc500.ram = 21;
         break;
     case 7:
         _0x1dc500.axe = 140, _0x1dc500.ram = 26;
         break;
     case 8:
-        _0x1dc500.axe = 190, 0 = 33;
+        _0x1dc500.axe = 190, _0x1dc500.ram = 33;
         break;
     case 9:
         _0x1dc500.axe = 220, _0x1dc500.ram = 41;
@@ -1709,37 +1709,37 @@ function _0x4726f5(_0x1d888c) {
         _0x1dc500.axe = 290, _0x1dc500.ram = 50;
         break;
     case 11:
-        _0x1dc500.axe = 300, 0 = 55;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 55;
         break;
     case 12:
-        0 = 300, _0x1dc500.ram = 66;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 66;
         break;
     case 13:
-        _0x1dc500.axe = 300, 0 = 78;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 78;
         break;
     case 14:
-        _0x1dc500.axe = 300, 0 = 92;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 92;
         break;
     case 15:
-        0 = 300, _0x1dc500.ram = 108;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 108;
         break;
     case 16:
         _0x1dc500.axe = 300, _0x1dc500.ram = 126;
         break;
     case 17:
-        _0x1dc500.axe = 300, 0 = 147;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 147;
         break;
     case 18:
         _0x1dc500.axe = 300, _0x1dc500.ram = 170;
         break;
     case 19:
-        _0x1dc500.axe = 300, 0 = 197;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 197;
         break;
     case 20:
-        0 = 300, _0x1dc500.ram = 219;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 219;
         break;
     default:
-        0 = 300, _0x1dc500.ram = 219;
+        _0x1dc500.axe = 300, _0x1dc500.ram = 219;
         break;
     }
     return _0x1dc500;
