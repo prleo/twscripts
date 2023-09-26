@@ -31,7 +31,7 @@ function _0x61c85d() {
     ((_0x47e851.kFa = true),
     $.ajax({
       type: 'GET',
-      url: 'https://rawcdn.githack.com/prleo/twscripts/ed40808eb621ffd2d2893c09afe0c4cfc0f50fad/KuminFarmScript.js',
+      url: 'https://rawcdn.githack.com/prleo/twscripts/6c1e74501ae4e192bad4a22abd89d2ad152c178b/KuminFarmScript.js',
       dataType: 'script',
       cache: false,
     }))
